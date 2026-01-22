@@ -129,3 +129,4 @@ This project highlights how **time series forecasting** can be effectively appli
 
 If you find this project useful, feel free to ⭐ the repository!
 
+---
