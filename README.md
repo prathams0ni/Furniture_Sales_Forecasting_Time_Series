@@ -128,5 +128,3 @@ Focused on data-driven problem solving, analytics, and business intelligence.
 This project highlights how **time series forecasting** can be effectively applied to real-world retail data to predict future demand and drive informed business decisions.
 
 If you find this project useful, feel free to ⭐ the repository!
-
----
