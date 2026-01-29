@@ -117,14 +117,16 @@ Potential improvements to this project include:
 
 ---
 
+## ⭐ Key Takeaway
+This project highlights how **time series forecasting** can be effectively applied to real-world retail data to predict future demand and drive informed business decisions.
+
+If you find this project useful, feel free to ⭐ the repository!
+
+---
+
 ## 👤 Author
 **Pratham Soni**  
 Aspiring Data Analyst / Data Scientist  
 Focused on data-driven problem solving, analytics, and business intelligence.
 
 ---
-
-## ⭐ Key Takeaway
-This project highlights how **time series forecasting** can be effectively applied to real-world retail data to predict future demand and drive informed business decisions.
-
-If you find this project useful, feel free to ⭐ the repository!
